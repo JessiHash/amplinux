@@ -1,4 +1,4 @@
-amp-linux
+amplinux
 =========
 
 amplinux ou &amp;; est un système d'exploitation basé sur Debian Linux stable (et #! CrunchBang Linux stable) totalement francisé, personalisé et amendé.
